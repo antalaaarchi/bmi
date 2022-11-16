@@ -21,8 +21,6 @@ class _first_pageState extends State<first_page> {
       appBar: AppBar(
         title: Text("BMI  CALCULATOR",style: TextStyle(fontSize: 20),),
         backgroundColor: Colors.teal,
-
-
       ),
       body: Column(
         children: [
